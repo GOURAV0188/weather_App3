@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d35f5f0.css",
-    "main.js": "/static/js/main.84aeb894.js",
-    "index.html": "/index.html",
-    "main.0d35f5f0.css.map": "/static/css/main.0d35f5f0.css.map",
-    "main.84aeb894.js.map": "/static/js/main.84aeb894.js.map"
+    "main.css": "/GOURAV0188/weather_App3.git/static/css/main.0d35f5f0.css",
+    "main.js": "/GOURAV0188/weather_App3.git/static/js/main.2a382655.js",
+    "index.html": "/GOURAV0188/weather_App3.git/index.html",
+    "main.0d35f5f0.css.map": "/GOURAV0188/weather_App3.git/static/css/main.0d35f5f0.css.map",
+    "main.2a382655.js.map": "/GOURAV0188/weather_App3.git/static/js/main.2a382655.js.map"
   },
   "entrypoints": [
     "static/css/main.0d35f5f0.css",
-    "static/js/main.84aeb894.js"
+    "static/js/main.2a382655.js"
   ]
 }
